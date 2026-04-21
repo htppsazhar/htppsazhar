@@ -14,7 +14,7 @@ from Noida, UP, India 🇮🇳
 - 🔭 Currently building **Data Analytics Projects**
 - 🌱 Currently learning **Advanced DAX, Python & ML**
 - 👀 Open to **Data Analyst | Business Analyst | BI Developer** roles
-- 💬 Ask me about **SQL | Power BI | Data Analytics | Python**
+- 💬 Ask me about **SQL | Power BI | Data Analytics | Python | ML**
 - 🌐 Portfolio: [azhar-khan-me.vercel.app](https://azhar-khan-me.vercel.app/)
 - 📫 LinkedIn: [Azhar Ullah Khan](https://www.linkedin.com/in/azhar-ullah-khan-b8293a252/)
 
@@ -133,6 +133,22 @@ from Noida, UP, India 🇮🇳
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=htppsazhar&theme=tokyo-night&hide_border=true" />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Thanks+for+visiting!+🙏;Open+to+Data+Analyst+Opportunities!+💼;Let's+connect+and+build+something+amazing!+🚀" />
+</div>
+
+---
+
+<div align="center">
+
+### 💭 My Motto:
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=The+magic+is+in+the+work+you+are+avoiding...+✨;Data+tells+a+story+—+your+job+is+to+find+it!+📊;Turn+Raw+Data+into+Powerful+Insights!+🚀;Every+dataset+has+a+secret+—+SQL+finds+it!+🗄️;From+Data+to+Decisions+—+That's+the+Power!+💡" />
+
 </div>
 
 ---
