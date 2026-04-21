@@ -140,9 +140,9 @@ from Noida, UP, India 🇮🇳
 
 <div align="center">
 
-### ✨ My Motto:
+### ✨ Quote:
 
-![Motto](https://readme-typing-svg.herokuapp.com?font=Georgia&size=24&duration=99999&pause=99999&color=FFFFFF&center=true&vCenter=true&width=700&height=80&lines=❝+The+magic+you're+looking+for+is+in+the+work+you're+avoiding+❞)
+> ## ❝ The magic you're looking for is in the work you're avoiding ❞
 
 </div>
 
