@@ -2,42 +2,19 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=Hi+There!+👋+I'm+Azhar+Ullah+Khan;Data+Analyst+%7C+SQL+%7C+Power+BI;Turning+Raw+Data+into+Insights+📊;Open+to+Work+%7C+Let's+Connect!+🚀" alt="Typing SVG" />
 </div>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=htppsazhar&color=00d4ff&style=for-the-badge&label=PROFILE+VIEWS" />
-  <img src="https://img.shields.io/github/followers/htppsazhar?style=for-the-badge&color=00d4ff&label=FOLLOWERS" />
-  <img src="https://img.shields.io/badge/Open%20To%20Work-00D4FF?style=for-the-badge&logo=linkedin&logoColor=white" />
-</div>
-
 ---
 
 ## 🧑‍💻 About Me
 
-```python
-class Azhar:
-    name         = "Azhar Ullah Khan"
-    username     = "htppsazhar"
-    location     = "Noida, UP, India 🇮🇳"
-    pronouns     = "He/Him"
-    portfolio    = "https://azhar-khan-me.vercel.app/"
-    linkedin     = "https://www.linkedin.com/in/azhar-ullah-khan-b8293a252/"
-    
-    currently    = [
-        "📊 Building Data Analytics Projects",
-        "🗄️ Mastering SQL & Power BI",
-        "🔍 Open to Data Analyst Roles",
-        "📈 Learning Advanced DAX & Python"
-    ]
-    
-    skills       = [
-        "MySQL | SQL Server | TSQL",
-        "Power BI | DAX | Data Modeling",
-        "Python | Pandas | NumPy",
-        "React | JavaScript | FastAPI"
-    ]
-    
-    looking_for  = "Data Analyst | Business Analyst | BI Developer"
-    ask_me_about = "SQL | Power BI | Data Analytics | Python"
-```
+👋 Hi! I'm **Azhar Ullah Khan**, a passionate **Data Analyst**
+from Noida, UP, India 🇮🇳
+
+- 🔭 Currently building **Data Analytics Projects**
+- 🌱 Currently learning **Advanced DAX & Python**
+- 👀 Open to **Data Analyst | Business Analyst | BI Developer** roles
+- 💬 Ask me about **SQL | Power BI | Data Analytics | Python**
+- 🌐 Portfolio: [azhar-khan-me.vercel.app](https://azhar-khan-me.vercel.app/)
+- 📫 LinkedIn: [Azhar Ullah Khan](https://www.linkedin.com/in/azhar-ullah-khan-b8293a252/)
 
 ---
 
@@ -93,27 +70,6 @@ class Azhar:
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=htppsazhar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=htppsazhar&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=htppsazhar&theme=tokyonight&hide_border=true" />
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=htppsazhar&theme=tokyonight&no-frame=true&row=1&column=7" />
-</div>
-
----
-
 ## 📌 Featured Projects
 
 ### 🔗 Supply Chain Analytics
@@ -124,7 +80,7 @@ class Azhar:
 
 - 🗄️ MySQL database with 5 tables and 3183+ records
 - 📊 25+ SQL queries solving real business problems
-- 📈 3-page interactive Power BI dashboard
+- 📈 3 page interactive Power BI dashboard
 - 🌍 Global customer and supplier distribution map
 
 [![View Project](https://img.shields.io/badge/View_Project-00D4FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/htppsazhar/Supply-Chain-Analytics)
@@ -173,15 +129,6 @@ class Azhar:
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=htppsazhar&theme=tokyo-night&hide_border=true" />
-</div>
-
----
-
-<div align="center">
-
-### 💬 Random Dev Quote:
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
 </div>
 
 ---
