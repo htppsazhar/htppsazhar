@@ -136,18 +136,13 @@ from Noida, UP, India 🇮🇳
 </div>
 
 ---
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Thanks+for+visiting!+🙏;Open+to+Data+Analyst+Opportunities!+💼;Let's+connect+and+build+something+amazing!+🚀" />
-</div>
-
 ---
 
 <div align="center">
 
-### 💭 My Motto:
+### ✨ My Motto:
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=The+magic+is+in+the+work+you+are+avoiding...+✨;Data+tells+a+story+—+your+job+is+to+find+it!+📊;Turn+Raw+Data+into+Powerful+Insights!+🚀;Every+dataset+has+a+secret+—+SQL+finds+it!+🗄️;From+Data+to+Decisions+—+That's+the+Power!+💡" />
+![Motto](https://readme-typing-svg.herokuapp.com?font=Georgia&size=24&duration=99999&pause=99999&color=FFFFFF&center=true&vCenter=true&width=700&height=80&lines=❝+The+magic+you're+looking+for+is+in+the+work+you're+avoiding+❞)
 
 </div>
 
