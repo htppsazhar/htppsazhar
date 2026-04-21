@@ -2,6 +2,14 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=Hi+There!+👋+I'm+Azhar+Ullah+Khan;Data+Analyst+%7C+SQL+%7C+Power+BI;Turning+Raw+Data+into+Insights+📊;Open+to+Work+%7C+Let's+Connect!+🚀" alt="Typing SVG" />
 </div>
 
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=Hi+There!+👋+I'm+Azhar+Ullah+Khan;Data+Analyst+%7C+SQL+%7C+Power+BI;Turning+Raw+Data+into+Insights+📊;Open+to+Work+%7C+Let's+Connect!+🚀" alt="Typing SVG" />
+
+  <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="400" />
+</div>
+
+---
+
 ---
 
 ## 🧑‍💻 About Me
