@@ -136,13 +136,11 @@ from Noida, UP, India 🇮🇳
 </div>
 
 ---
----
+
 
 <div align="center">
 
-### ✨ Quote:
-
-> ## ❝ The magic you're looking for is in the work you're avoiding ❞
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00D4FF&height=100&section=footer&text=✨%20The%20magic%20you're%20looking%20for%20is%20in%20the%20work%20you're%20avoiding%20✨&fontSize=18&fontColor=ffffff&animation=fadeIn&fontAlignY=65" />
 
 </div>
 
